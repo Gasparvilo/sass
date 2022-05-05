@@ -1,0 +1,10 @@
+
+
+.titulo{
+    background-color: black;
+    color: bisque;
+    font-size: xx-large;
+    &:hover{
+        background-color: blue;
+    }
+}

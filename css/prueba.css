@@ -1,0 +1,6 @@
+.titulo {
+  background-color: black;
+  color: bisque;
+  font-size: xx-large; }
+  .titulo:hover {
+    background-color: blue; }
